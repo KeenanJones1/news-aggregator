@@ -1,21 +1,11 @@
-# project-skeleton
-Skeletion for all future projects using Docker
+Goal is to practice creating ai agents
 
-# Dev Skeleton
+- Project idea, creating an UI/Javascript based news feed that combines my subscribed newsletters, reddit posts, twitter tweets and other
+- Agents would submit articles/posts based on defined criteria and summarize them.
 
-This is a starter template for all my dev projects using Docker, Python, and Node.js.
+-- Agents
+ - Reddit Agent
+ - X Agent
+ - Gmail Agent
+ 
 
-## Usage
-
-1. Clone this template:
-git clone https://github.com/yourusername/project-skeleton my-new-project
-cd my-new-project
-
-
-2. Build the Docker image:
-make build
-
-3. Start the container:
-make start
-
-4. Start developing inside `/app` inside the container!
