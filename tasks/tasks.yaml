@@ -1,0 +1,26 @@
+aggregator_task:
+  description: >
+    This task aggregates news from various sources and provides a summary.
+  expected_output: >
+    A comprehensive summary of the latest news articles from multiple sources.
+  agent: news_aggregator
+
+reddit_task:
+  description: >
+    This task scrapes Reddit for the latest posts and summarizes them.
+  expected_output: >
+  agent: reddit_scrapper
+  context: 
+
+gmail_task: 
+  description: >
+  expected_output: >
+  agent: gmail_scrapper
+
+x_task:
+  description: >
+  expected_output: >
+  agent: x_scrapper
+  context:
+
+# Define the tasks for the news aggregator application

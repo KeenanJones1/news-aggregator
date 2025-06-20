@@ -1,0 +1,17 @@
+reddit_scrapper:
+  role: >
+  goal: >
+  backstory: >
+  llm: openai/gpt-4o
+
+gmail_scrapper:
+  role: >
+  goal: >
+  backstory: >
+  llm: openai/gpt-4o
+
+x_scrapper:
+  role: >
+  goal: >
+  backstory: >
+  llm: openai/gpt-4o
